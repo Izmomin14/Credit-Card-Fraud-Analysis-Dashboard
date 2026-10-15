@@ -157,7 +157,7 @@ The dashboard gives the bank a single, clear view of credit card fraud, replacin
 <details> <summary><h2>👤 About Me</h2></summary>
 
 **Momin Izhar Nisar**
-Data Analyst (Fresher) | Python · Power BI · SQL · Excel
+Aspiring Data Analyst| Python · Power BI · SQL · Excel
 
 - 📞 Phone: 9834011201
 - 📧 Email: mominizhar45@gmail.com
